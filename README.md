@@ -131,5 +131,3 @@ mo teminal
  sau do ve vung do xe 
 
  roi nhan dien # Smart-Parking-Management-using-Ethereum-Smart-Contract
-# C-ng-ngh-x-l-nh
-# CongNgheXuLyAnh
